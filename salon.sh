@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# emk d
 PSQL="psql -X --username=freecodecamp --dbname=salon --tuples-only -c"
 
 echo -e "\n~~~~~ MY SALON ~~~~~\n"
